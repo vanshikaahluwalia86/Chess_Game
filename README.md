@@ -1,8 +1,3 @@
-Got it!  
-Based on your provided files (`chess_gui.py` and `chess_ai.py`), here’s a polished `README.md` specifically for your project:
-
----
-
 # ♟️ Chess_Game (AI Based Chess)
 
 Welcome to **Chess_Game** — an AI-powered chess game with a rich graphical interface and smart opponent logic.  
